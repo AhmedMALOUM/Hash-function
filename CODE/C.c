@@ -180,7 +180,7 @@ int main() {
     printf("\nLogistic Map (r=%.10f, CI=%.10f):\n", r, CI);
     generateLogisticSequence(CI, r, numIterations);
 
-  char messageString[] = "nique yemasssssssssssssssssssssss";
+  char messageString[] = "les donnees";
 unsigned char message[BLOCK_SIZE];
 memcpy(message, messageString, strlen(messageString));
     int keySize = strlen(cle_secrete);
